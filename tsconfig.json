@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "target": "ES5",
+    "jsx": "react",
+    "module": "ES6",
+    "moduleResolution": "Node",
+    "declaration": true
+  }
+}

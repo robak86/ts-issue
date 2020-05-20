@@ -1,0 +1,13 @@
+{
+  "name": "@scope/utils",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "module": "./lib",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "lib"
+  ]
+}
